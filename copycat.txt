@@ -1,0 +1,3 @@
+rf model details:
+https://github.com/fastai/fastai/tree/master/courses/ml1
+
